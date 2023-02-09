@@ -3,16 +3,10 @@
 
 ### 📖 My Books
 
-- **Hands-On Neuroevolution with Python:** Build high-performing artificial neural network architectures using neuroevolution-based algorithms
-  - [Packt](https://www.packtpub.com/product/hands-on-neuroevolution-with-python/9781838824914)
-  - [O’Reilly](https://www.oreilly.com/library/view/hands-on-neuroevolution-with/9781838824914/)
-  - [Google Books](https://books.google.com/books?id=iiLHDwAAQBAJ&printsec=frontcover&dq=Hands-On+Neuroevolution+with+Python&hl=en&sa=X&redir_esc=y#v=onepage&q=Hands-On%20Neuroevolution%20with%20Python&f=false)
-  - [Amazon](https://www.amazon.com/Hands-Neuroevolution-Python-high-performing-neuroevolution-based/dp/183882491X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1658229322&sr=)
-- Machine Learning and the City. Chapter 12 Autonomous Artificial Intelligent Agents
-  - [Wiley-Blackwell](https://www.wiley.com/en-gb/Machine+Learning+and+the+City%3A+Applications+in+Architecture+and+Urban+Design-p-9781119749639)
-  - [Wiley Online Library](https://onlinelibrary.wiley.com/doi/10.1002/9781119815075.ch21)
-  - [Google Books](https://books.google.com/books/about/Machine_Learning_and_the_City.html?id=phh1EAAAQBAJ&printsec=frontcover&source=kp_read_button&hl=en&redir_esc=y#v=onepage&q&f=false)
-  - [Amazon](https://www.amazon.com/Machine-Learning-City-Applications-Architecture/dp/1119749638/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
+- **Hands-On Neuroevolution with Python:** Build high-performing artificial neural network architectures using neuroevolution-based algorithms.
+ISBN: [978-1-838-82491-4](https://www.worldcat.org/isbn/9781838824914) ( [Packt](https://www.packtpub.com/product/hands-on-neuroevolution-with-python/9781838824914) | [O’Reilly](https://www.oreilly.com/library/view/hands-on-neuroevolution-with/9781838824914/) | [Google Books](https://books.google.com/books?id=iiLHDwAAQBAJ&printsec=frontcover&dq=Hands-On+Neuroevolution+with+Python&hl=en&sa=X&redir_esc=y#v=onepage&q=Hands-On%20Neuroevolution%20with%20Python&f=false) | [Amazon](https://www.amazon.com/Hands-Neuroevolution-Python-high-performing-neuroevolution-based/dp/183882491X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1658229322&sr=) )
+- **Machine Learning and the City.** Chapter 12 Autonomous Artificial Intelligent Agents.
+DOI: [10.1002/9781119815075.ch21](https://doi.org/10.1002/9781119815075.ch21) part of ISBN: [978-1-119-74963-9](https://www.worldcat.org/isbn/9781119749639) ( [Wiley-Blackwell](https://www.wiley.com/en-gb/Machine+Learning+and+the+City%3A+Applications+in+Architecture+and+Urban+Design-p-9781119749639) | [Wiley Online Library](https://onlinelibrary.wiley.com/doi/10.1002/9781119815075.ch21) | [Google Books](https://books.google.com/books/about/Machine_Learning_and_the_City.html?id=phh1EAAAQBAJ&printsec=frontcover&source=kp_read_button&hl=en&redir_esc=y#v=onepage&q&f=false) | [Amazon](https://www.amazon.com/Machine-Learning-City-Applications-Architecture/dp/1119749638/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) )
   
 
 ### 📑 My Publications
