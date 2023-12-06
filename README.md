@@ -23,6 +23,7 @@ DOI: [10.1002/9781119815075.ch21](https://doi.org/10.1002/9781119815075.ch21) pa
 - [Research Gate](https://www.researchgate.net/profile/Iaroslav-Omelianenko/publications)
 - [ORCID: 0000-0002-2190-5664](https://orcid.org/0000-0002-2190-5664)
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57219478752&origin=recordPage#)
+- [SciProfiles](https://sciprofiles.com/profile/io42)
 
 <!--
 **yaricom/yaricom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
