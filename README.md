@@ -9,7 +9,7 @@ ISBN: [978-1-838-82491-4](https://www.worldcat.org/isbn/9781838824914) ( [Packt]
 DOI: [10.1002/9781119815075.ch21](https://doi.org/10.1002/9781119815075.ch21) part of ISBN: [978-1-119-74963-9](https://www.worldcat.org/isbn/9781119749639) ( [Wiley-Blackwell](https://www.wiley.com/en-gb/Machine+Learning+and+the+City%3A+Applications+in+Architecture+and+Urban+Design-p-9781119749639) | [Wiley Online Library](https://onlinelibrary.wiley.com/doi/10.1002/9781119815075.ch21) | [Google Books](https://books.google.com/books/about/Machine_Learning_and_the_City.html?id=phh1EAAAQBAJ&printsec=frontcover&source=kp_read_button&hl=en&redir_esc=y#v=onepage&q&f=false) | [Amazon](https://www.amazon.com/Machine-Learning-City-Applications-Architecture/dp/1119749638/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) )
   
 
-### 📑 My Publications
+### 📑 My Papers
 
 - Omelianenko, Iaroslav. **Applying Deep Machine Learning for Psycho-Demographic Profiling of Internet Users Using O.C.E.A.N. Model of Personality.** _arXiv [Cs.LG]_, 2017. P. 1–24. DOI: https://doi.org/10.48550/arxiv.1703.06914. 
 - Omelianenko, Iaroslav. **Applying Advanced Machine Learning Models to Classify Electro-Physiological Activity of Human Brain for Use in Biometric Identification.** _arXiv [Cs.LG]_, 2017. P. 1–8.  [DOI: 10.48550/arxiv.1708.01167](https://doi.org/10.48550/arxiv.1708.01167)
