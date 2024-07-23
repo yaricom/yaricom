@@ -1,4 +1,3 @@
-### Hi there 👋
 ![Iaroslav Omelianenko's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaricom&count_private=true&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaricom&layout=compact)
 
 ### 📖 My Books
