@@ -11,10 +11,12 @@ DOI: [10.1002/9781119815075.ch21](https://doi.org/10.1002/9781119815075.ch21) pa
 
 ### 📑 My Publications
 
-- [arXiv:1703.06914](https://arxiv.org/abs/1703.06914) Applying Deep Machine Learning for psycho-demographic profiling of Internet users using O.C.E.A.N. model of personality
-- [arXiv:1708.01167](https://arxiv.org/abs/1708.01167) Applying advanced machine learning models to classify electro-physiological activity of human brain for use in biometric identification
-- [hal-01868756v2](https://hal.science/hal-01868756) Creation of Autonomous Artificial Intelligent Agents using Novelty Search method of fitness function optimization
-- [doi: 10.20944/preprints201901.0282.v1](https://www.preprints.org/manuscript/201901.0282/v1) Artificial Swarm Intelligence and Cooperative Robotic Systems
+- Omelianenko, Iaroslav. **Applying Deep Machine Learning for Psycho-Demographic Profiling of Internet Users Using O.C.E.A.N. Model of Personality.** _arXiv [Cs.LG]_, 2017. P. 1–24. DOI: https://doi.org/10.48550/arxiv.1703.06914. 
+- Omelianenko, Iaroslav. **Applying Advanced Machine Learning Models to Classify Electro-Physiological Activity of Human Brain for Use in Biometric Identification.** _arXiv [Cs.LG]_, 2017. P. 1–8.  [DOI: 10.48550/arxiv.1708.01167](https://doi.org/10.48550/arxiv.1708.01167)
+- Omelianenko, I. **Creation of Autonomous Artificial Intelligent Agents using Novelty Search method of fitness function optimization.** _Hal.science_, 2018. P. 1–7. [URL: https://hal.science/hal-01868756](https://hal.science/hal-01868756)
+- Omelianeko, I. **Artificial Swarm Intelligence and Cooperative Robotic Systems.** _Preprints.org_, 2019, P. 1–8. [DOI: 10.20944/preprints201901.0282.v1](https://www.preprints.org/manuscript/201901.0282/v1) 
+- Omelianeko, I. **Simulation of the autonomous maze navigation using the NEAT algorithm.** _Problems in programming_, 2023. Vol. 4, P. 76–89. [DOI: 10.15407/pp2023.04.076](https://doi.org/10.15407/pp2023.04.076)
+- Omelianenko, I. and Sinitsyn, I. **Artificial swarm intelligence.** _International Scientific Technical Journal "Problems of Control and Informatics"_, 2024, Vol. 69. N 3. P. 91–103. [DOI: 10.34229/1028-0979-2024-3-7](https://doi.org/10.34229/1028-0979-2024-3-7)
 
 
 ### 🔭 Researcher Profiles
